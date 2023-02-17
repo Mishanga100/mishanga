@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Misha",
+            "photo_url": "13213",
+            "balance": 2000
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "LED display",
+            "description": "1200x700px",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": ""
+            
+        }
+    ]
+}
