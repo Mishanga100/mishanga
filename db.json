@@ -5,11 +5,70 @@
             "name": "Misha",
             "photo_url": "13213",
             "balance": 2000
-        }
+        },
+       
+            {
+                "id": 2,
+                "name": "Misha",
+                "photo_url": "13213",
+                "balance": 2000
+            },
+            
+                {
+                    "id": 3,
+                    "name": "Misha",
+                    "photo_url": "13213",
+                    "balance": 2000
+                }
     ],
     "products": [
         {
             "id": 1,
+            "name": "LED display",
+            "description": "1200x700px",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": ""
+            
+        },
+        {
+            "id": 2,
+            "name": "LED display",
+            "description": "1200x700px",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": ""
+            
+        },
+        {
+            "id": 3,
+            "name": "LED display",
+            "description": "1200x700px",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": ""
+            
+        },
+        {
+            "id": 4,
+            "name": "LED display",
+            "description": "1200x700px",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": ""
+            
+        },
+        {
+            "id": 5,
+            "name": "LED display",
+            "description": "1200x700px",
+            "price": 300,
+            "author_id": 1,
+            "photo_url": ""
+            
+        },
+        {
+            "id": 6,
             "name": "LED display",
             "description": "1200x700px",
             "price": 300,
